@@ -131,12 +131,12 @@ body {
         padding: 12px 0; } }
 
 header.masthead {
-  text-align: justify;
+  text-align: center;
   color: white;
   background-image: url("/img/header-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-position: justify justify;
+  background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -205,7 +205,7 @@ header.masthead {
         width: 100%;
         height: 20px;
         margin-top: -12px;
-        text-align: justify;
+        text-align: center;
         color: white; }
         #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
           margin-top: -12px; }
@@ -216,7 +216,7 @@ header.masthead {
     max-width: 400px;
     margin: 0 auto;
     padding: 25px;
-    text-align: justify;
+    text-align: center;
     background-color: #fff; }
     #portfolio .portfolio-item .portfolio-caption h4 {
       margin: 0;
@@ -336,7 +336,7 @@ header.masthead {
       width: 80px;
       height: 80px;
       margin-left: 0;
-      text-align: justify;
+      text-align: center;
       color: white;
       border: 7px solid #e9ecef;
       border-radius: 100%;
@@ -427,7 +427,7 @@ header.masthead {
 
 .team-member {
   margin-bottom: 50px;
-  text-align: justify; }
+  text-align: center; }
   .team-member img {
     width: 225px;
     height: 225px;
@@ -443,7 +443,7 @@ section#contact {
   background-color: #212529;
   background-image: url("../img/map-image.png");
   background-repeat: no-repeat;
-  background-position: justify; }
+  background-position: center; }
   section#contact .section-heading {
     color: #fff; }
   section#contact .form-group {
@@ -479,7 +479,7 @@ section#contact {
 
 footer {
   padding: 25px 0;
-  text-align: justify; }
+  text-align: center; }
   footer span.copyright {
     font-size: 90%;
     line-height: 40px;
